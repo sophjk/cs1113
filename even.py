@@ -1,1 +1,1 @@
-print ('Hi Grace')
+"num % 2" => "num % 3"
